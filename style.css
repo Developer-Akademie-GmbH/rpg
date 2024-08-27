@@ -6,3 +6,21 @@ body {
     color: #333;
     text-align: center;
 }
+
+p {
+    font-size: 20px;
+}
+
+a {
+    color: #0066cc;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+}
