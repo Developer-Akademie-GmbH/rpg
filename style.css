@@ -11,6 +11,13 @@ p {
     font-size: 20px;
 }
 
+.story-image {
+    width: 100%;
+    border-radius: 10px;
+    max-height: 300px;
+    object-fit: cover;
+}
+
 a {
     color: #0066cc;
     text-decoration: none;
